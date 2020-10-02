@@ -1,5 +1,7 @@
 ## Base Setup for nodejs Applications
 
+- Basic setup of a NodeJS project with javascript, ESLint and Prettier for code standardization and formatting, Jest for tests and sqlite as a test bank, and Sequelize as ORM using the Postgres database.
+
 ## Tutorial
 
 ### Initialize project
