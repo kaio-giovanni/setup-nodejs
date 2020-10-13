@@ -21,7 +21,7 @@
 
 - Install Plugins on VScode => `ESLint` and `Prettier - Code Formatter`
 - Enable Format on Save => `Ctrl + SHIFT + p` and enable 'Format on Save'
-- Install devDependecies => `yarn add -D eslint eslint-config-prettier eslint-plugin-prettier prettier`
+- Install devDependecies => `yarn add -D eslint eslint-plugin-import eslint-config-prettier eslint-plugin-prettier prettier`
 - Set Prettier Configs => Create file `.prettierrc.json` and add properties
 - Initialize ESLint => `yarn run eslint --init`
 
